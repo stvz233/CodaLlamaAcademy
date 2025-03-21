@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+build
+.git
+*.md
+.gitignore
+
+#reference: https://www.geeksforgeeks.org/how-to-dockerize-an-expressjs-app/ 
